@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "237275265128",
+    "firebase_url": "https://task-u-f4a38-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "task-u-f4a38",
+    "storage_bucket": "task-u-f4a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237275265128:android:f9c96088ff602d206c23dd",
+        "android_client_info": {
+          "package_name": "com.example.task_u"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiUK-0tm7qI0jhcPsUZVtsxxoKTLBEwGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237275265128:android:d48815d2cc87bde46c23dd",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiUK-0tm7qI0jhcPsUZVtsxxoKTLBEwGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237275265128:android:1e142354ab36e7256c23dd",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiUK-0tm7qI0jhcPsUZVtsxxoKTLBEwGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
